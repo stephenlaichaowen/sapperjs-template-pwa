@@ -1,6 +1,6 @@
 {
-  "name": "SapperTemplate",
-  "description": "TODO",
+  "name": "sapper-template",
+  "description": "Sapperjs Template",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",

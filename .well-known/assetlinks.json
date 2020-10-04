@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.sapperjs_template_pwa.twa",
+                   "sha256_cert_fingerprints": ["D7:31:86:37:36:77:BF:55:93:B2:C4:B9:3E:B1:A5:78:29:B7:50:D0:14:CD:0A:DD:D1:00:1E:CC:08:60:E0:AE"] }
+    }]
